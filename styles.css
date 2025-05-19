@@ -1,0 +1,121 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400 ;
+    font-style: normal;
+  }
+
+h1, h2 {
+    text-align: center; 
+    text-transform: uppercase;  
+    color: #ffffff; 
+}
+
+h1 {
+    font-size: 36px; 
+}
+
+h3 {
+    font-size: 26px;
+}
+
+h5 {
+    color: rgb(255, 255, 255);
+}
+
+
+a {
+    color:#ff9318;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+ {
+    text-transform: uppercase;
+    margin-top: 1px;
+
+}
+
+.animal {
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 1px;
+}
+
+
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+/* exemplo do projeto de aula do professor */
+
+.dog-adoption img {
+    margin-bottom: 20px;
+}
+
+.dog-. ul,
+.dog-adoption h3 {
+    text-align: left;
+    padding-left: 0px;
+}
+
+.dog-adoption li {
+    list-style: none;
+}
+
+/* exemplo do projeto de aula do professor */
+
+.redesociais {
+    background-color: #FF186D;
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.redesociais a {
+    color: white;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.redesociais a:hover {
+    color: black;
+}
+
+.rodape {
+    background-color: rgba(0, 0, 0, 0.843);
+    color: rgb(26, 11, 11);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+.charts {
+    background-color: rgb(130, 137, 161);
+    color: rgb(26, 11, 11);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+
+.rodape a {
+    color: white;
+}
+
+h1, h2 {
+    font-family: "Tagesschrift", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.article h1,
+.contact h1 {
+margin: 40px 0 20px;
+}
